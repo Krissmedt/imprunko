@@ -1,0 +1,1 @@
+/usr/bin/mpic++ -fPIC  -fopenmp  -shared  -o ../../../corgi/lib/pycorgitest.cpython-36m-x86_64-linux-gnu.so CMakeFiles/pycorgitest.dir/corgitest.c++.o CMakeFiles/pycorgitest.dir/pycorgitest.c++.o -flto 

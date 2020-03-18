@@ -1,0 +1,1 @@
+/usr/bin/mpic++ -fPIC  -fopenmp  -shared  -o ../../../../corgi/lib/pyca.cpython-36m-x86_64-linux-gnu.so CMakeFiles/pyca.dir/gol.c++.o CMakeFiles/pyca.dir/pygol.c++.o -flto 

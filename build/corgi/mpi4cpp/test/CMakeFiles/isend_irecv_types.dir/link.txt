@@ -1,0 +1,1 @@
+/usr/bin/mpic++   -fopenmp    -rdynamic CMakeFiles/isend_irecv_types.dir/test_isend_irecv_types.c++.o  -o isend_irecv_types -lmpi 

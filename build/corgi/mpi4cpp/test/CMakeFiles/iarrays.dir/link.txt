@@ -1,0 +1,1 @@
+/usr/bin/mpic++   -fopenmp    -rdynamic CMakeFiles/iarrays.dir/test_iarrays.c++.o  -o iarrays -lmpi 

@@ -1,0 +1,1 @@
+/usr/bin/mpic++   -fopenmp    -rdynamic CMakeFiles/send_recv_nodata.dir/test_send_recv_nodata.c++.o  -o send_recv_nodata -lmpi 

@@ -1,0 +1,48 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+.DS_Store
+
+
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+*.pyc
+
+# Executables
+*.exe
+*.out
+*.app
+radpic
+
+# debug folders
+*.dSYM
+
+#
+*.png
+*.pdf
+
+
+*/*/runs
+*.zip
+out/
+*/*/out/
+*.mp4

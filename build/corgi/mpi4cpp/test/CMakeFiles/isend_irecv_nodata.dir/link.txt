@@ -1,0 +1,1 @@
+/usr/bin/mpic++   -fopenmp    -rdynamic CMakeFiles/isend_irecv_nodata.dir/test_isend_irecv_nodata.c++.o  -o isend_irecv_nodata -lmpi 

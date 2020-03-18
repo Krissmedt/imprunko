@@ -1,0 +1,1 @@
+/usr/bin/mpic++   -fopenmp    -rdynamic CMakeFiles/own_datatype.dir/test_own_datatype.c++.o  -o own_datatype -lmpi 

@@ -1,0 +1,242 @@
+[
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/send_recv_types.dir/test_send_recv_types.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_send_recv_types.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_send_recv_types.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/arrays.dir/test_arrays.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_arrays.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_arrays.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/send_recv.dir/test_send_recv.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_send_recv.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_send_recv.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/isend_irecv_nodata.dir/test_isend_irecv_nodata.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_isend_irecv_nodata.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_isend_irecv_nodata.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/init.dir/test_init.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_init.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_init.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/isend_irecv.dir/test_isend_irecv.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_isend_irecv.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_isend_irecv.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/iarrays.dir/test_iarrays.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_iarrays.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_iarrays.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/send_recv_nodata.dir/test_send_recv_nodata.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_send_recv_nodata.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_send_recv_nodata.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/isend_irecv_types.dir/test_isend_irecv_types.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_isend_irecv_types.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_isend_irecv_types.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/mpi4cpp/test",
+  "command": "/usr/bin/mpic++   -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include   -fopenmp   -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/own_datatype.dir/test_own_datatype.c++.o -c /home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_own_datatype.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/mpi4cpp/test/test_own_datatype.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/pycorgi",
+  "command": "/usr/bin/mpic++  -Dpycorgi_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pycorgi.dir/pycorgi.c++.o -c /home/krissmedt/Documents/runko/corgi/pycorgi/pycorgi.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/pycorgi/pycorgi.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/tests",
+  "command": "/usr/bin/mpic++  -Dpycorgitest_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pycorgitest.dir/corgitest.c++.o -c /home/krissmedt/Documents/runko/corgi/tests/corgitest.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/tests/corgitest.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/tests",
+  "command": "/usr/bin/mpic++  -Dpycorgitest_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pycorgitest.dir/pycorgitest.c++.o -c /home/krissmedt/Documents/runko/corgi/tests/pycorgitest.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/tests/pycorgitest.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/examples/game-of-life",
+  "command": "/usr/bin/mpic++  -Dpyca_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyca.dir/gol.c++.o -c /home/krissmedt/Documents/runko/corgi/examples/game-of-life/gol.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/examples/game-of-life/gol.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/examples/game-of-life",
+  "command": "/usr/bin/mpic++  -Dpyca_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyca.dir/pygol.c++.o -c /home/krissmedt/Documents/runko/corgi/examples/game-of-life/pygol.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/examples/game-of-life/pygol.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/examples/particles",
+  "command": "/usr/bin/mpic++  -Dpyprtcls_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyprtcls.dir/container.c++.o -c /home/krissmedt/Documents/runko/corgi/examples/particles/container.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/examples/particles/container.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/examples/particles",
+  "command": "/usr/bin/mpic++  -Dpyprtcls_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyprtcls.dir/prtcls.c++.o -c /home/krissmedt/Documents/runko/corgi/examples/particles/prtcls.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/examples/particles/prtcls.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/corgi/examples/particles",
+  "command": "/usr/bin/mpic++  -Dpyprtcls_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyprtcls.dir/pyprtcls.c++.o -c /home/krissmedt/Documents/runko/corgi/examples/particles/pyprtcls.c++",
+  "file": "/home/krissmedt/Documents/runko/corgi/examples/particles/pyprtcls.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/runko.c++.o -c /home/krissmedt/Documents/runko/python/runko.c++",
+  "file": "/home/krissmedt/Documents/runko/python/runko.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/pytools.c++.o -c /home/krissmedt/Documents/runko/python/pytools.c++",
+  "file": "/home/krissmedt/Documents/runko/python/pytools.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/tools/hilbert.c++.o -c /home/krissmedt/Documents/runko/tools/hilbert.c++",
+  "file": "/home/krissmedt/Documents/runko/tools/hilbert.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/pyfields.c++.o -c /home/krissmedt/Documents/runko/python/pyfields.c++",
+  "file": "/home/krissmedt/Documents/runko/python/pyfields.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/em-fields/tile.c++.o -c /home/krissmedt/Documents/runko/em-fields/tile.c++",
+  "file": "/home/krissmedt/Documents/runko/em-fields/tile.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/em-fields/damping_tile.c++.o -c /home/krissmedt/Documents/runko/em-fields/damping_tile.c++",
+  "file": "/home/krissmedt/Documents/runko/em-fields/damping_tile.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/em-fields/propagator/fdtd2.c++.o -c /home/krissmedt/Documents/runko/em-fields/propagator/fdtd2.c++",
+  "file": "/home/krissmedt/Documents/runko/em-fields/propagator/fdtd2.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/em-fields/propagator/fdtd4.c++.o -c /home/krissmedt/Documents/runko/em-fields/propagator/fdtd4.c++",
+  "file": "/home/krissmedt/Documents/runko/em-fields/propagator/fdtd4.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/em-fields/filters/digital.c++.o -c /home/krissmedt/Documents/runko/em-fields/filters/digital.c++",
+  "file": "/home/krissmedt/Documents/runko/em-fields/filters/digital.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/pyvlv.c++.o -c /home/krissmedt/Documents/runko/python/pyvlv.c++",
+  "file": "/home/krissmedt/Documents/runko/python/pyvlv.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/vlasov/tile.c++.o -c /home/krissmedt/Documents/runko/vlasov/tile.c++",
+  "file": "/home/krissmedt/Documents/runko/vlasov/tile.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/vlasov/boundaries/piston.c++.o -c /home/krissmedt/Documents/runko/vlasov/boundaries/piston.c++",
+  "file": "/home/krissmedt/Documents/runko/vlasov/boundaries/piston.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/vlasov/boundaries/outflow.c++.o -c /home/krissmedt/Documents/runko/vlasov/boundaries/outflow.c++",
+  "file": "/home/krissmedt/Documents/runko/vlasov/boundaries/outflow.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/vlasov/momentum-solvers/amr_momentum_solver.c++.o -c /home/krissmedt/Documents/runko/vlasov/momentum-solvers/amr_momentum_solver.c++",
+  "file": "/home/krissmedt/Documents/runko/vlasov/momentum-solvers/amr_momentum_solver.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/vlasov/momentum-solvers/bwd_lagrangian.c++.o -c /home/krissmedt/Documents/runko/vlasov/momentum-solvers/bwd_lagrangian.c++",
+  "file": "/home/krissmedt/Documents/runko/vlasov/momentum-solvers/bwd_lagrangian.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/pypic.c++.o -c /home/krissmedt/Documents/runko/python/pypic.c++",
+  "file": "/home/krissmedt/Documents/runko/python/pypic.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/tile.c++.o -c /home/krissmedt/Documents/runko/pic/tile.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/tile.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/particle.c++.o -c /home/krissmedt/Documents/runko/pic/particle.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/particle.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/boundaries/wall.c++.o -c /home/krissmedt/Documents/runko/pic/boundaries/wall.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/boundaries/wall.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/boundaries/piston.c++.o -c /home/krissmedt/Documents/runko/pic/boundaries/piston.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/boundaries/piston.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/pushers/boris.c++.o -c /home/krissmedt/Documents/runko/pic/pushers/boris.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/pushers/boris.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/pushers/boris_drag.c++.o -c /home/krissmedt/Documents/runko/pic/pushers/boris_drag.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/pushers/boris_drag.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/pushers/vay.c++.o -c /home/krissmedt/Documents/runko/pic/pushers/vay.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/pushers/vay.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/interpolators/linear.c++.o -c /home/krissmedt/Documents/runko/pic/interpolators/linear.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/interpolators/linear.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/pic/depositers/zigzag.c++.o -c /home/krissmedt/Documents/runko/pic/depositers/zigzag.c++",
+  "file": "/home/krissmedt/Documents/runko/pic/depositers/zigzag.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/pyrad.c++.o -c /home/krissmedt/Documents/runko/python/pyrad.c++",
+  "file": "/home/krissmedt/Documents/runko/python/pyrad.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/io/writer.c++.o -c /home/krissmedt/Documents/runko/io/writer.c++",
+  "file": "/home/krissmedt/Documents/runko/io/writer.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/io/reader.c++.o -c /home/krissmedt/Documents/runko/io/reader.c++",
+  "file": "/home/krissmedt/Documents/runko/io/reader.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/io/quick_writer.c++.o -c /home/krissmedt/Documents/runko/io/quick_writer.c++",
+  "file": "/home/krissmedt/Documents/runko/io/quick_writer.c++"
+},
+{
+  "directory": "/home/krissmedt/Documents/runko/build/python",
+  "command": "/usr/bin/mpic++  -Dpyrunko_EXPORTS -I/home/krissmedt/Documents/runko/tools/eigen -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/include -I/home/krissmedt/Documents/runko/corgi/mpi4cpp/tools/optional-lite/include -I/home/krissmedt/Documents/runko/corgi/pybind11/include -I/usr/include/python3.6m -I/usr/include/hdf5/serial   -fopenmp -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/pyrunko.dir/__/io/test_prtcl_writer.c++.o -c /home/krissmedt/Documents/runko/io/test_prtcl_writer.c++",
+  "file": "/home/krissmedt/Documents/runko/io/test_prtcl_writer.c++"
+}
+]
